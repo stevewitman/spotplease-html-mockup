@@ -1,0 +1,51 @@
+/* color 1: #491542 purple */
+/* color 2: #95999B gray   */
+/* color 3: #60CAC1 blue   */
+/* color 4: #CAEA72 green  */
+/* color 5: #EAE272 yellow */
+/* color 6: #ffffff white  */
+/* color 7: #000000 black  */
+body {
+}
+.navbar-default .navbar-nav>li>a {
+  font-size: 20px;
+  font-weight: 200;
+  color: #AAA;
+}
+.navbar-default .navbar-nav>li>a:hover {
+  color: #60CAC1;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+.navbar {
+  background-color: #FFFFFF;
+  margin: 0px;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.logo {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 200;
+  color: #95999B;
+}
+.logo-highlight {
+  color: #60CAC1;
+}
+.navbar-3 {
+  padding: 0px 16px 8px 0px;
+  background-color: #60CAC1;
+  color: #FFFFFF;
+  font-size: 50px;
+  font-weight: 200;
+  text-align: right;
+  height: 55px;
+  line-height: 55px;
+}
+.navbar .navbar-default {
+  margin: 0px;
+}
