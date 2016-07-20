@@ -12,9 +12,16 @@ body {
   font-weight: 200;
   color: #AAA;
 }
+.navbar-default .navbar-nav>li>a:visited {
+  color: #AAA;
+}
 .navbar-default .navbar-nav>li>a:hover {
   color: #60CAC1;
 }
+.navbar-default .navbar-nav>li>a:active {
+  color: #CAEA72;
+}
+
 .navbar .navbar-nav {
   display: inline-block;
   float: none;
@@ -48,4 +55,8 @@ body {
 }
 .navbar .navbar-default {
   margin: 0px;
+}
+.navbar-toggle {
+  margin-top:30px;
+  margin-right: 5px;
 }
