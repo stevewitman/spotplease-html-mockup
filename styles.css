@@ -48,6 +48,16 @@ body {
   height: 65px;
   line-height: 60px;
 }
+.navbar-4 {
+  padding: 0px 16px 8px 0px;
+  background-color: #CAEA72;
+  color: #FFFFFF;
+  font-size: 54px;
+  font-weight: 400;
+  text-align: right;
+  height: 65px;
+  line-height: 60px;
+}
 .navbar .navbar-default {
   margin: 0px;
 }
